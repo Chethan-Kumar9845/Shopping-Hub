@@ -8,7 +8,7 @@ This project focuses on layout design, CSS styling, and responsive design basics
 - CSS3
 
 ## 📷 Preview
-![screenshot]([screenshot.png](https://github.com/Chethan-Kumar9845/Shopping-Hub/blob/main/Outputs/Screenshot%202025-06-28%20103803.png))
+![screenshot](https://github.com/Chethan-Kumar9845/Shopping-Hub/blob/main/Outputs/Screenshot%202025-06-28%20103803.png))
 
 ## 📁 Features
 - Header navigation bar
